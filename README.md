@@ -1,0 +1,2 @@
+# geresteu
+ exercicio sobre estoque
